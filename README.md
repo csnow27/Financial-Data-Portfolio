@@ -5,6 +5,7 @@ Hi, my name is Chris and I am an aspiring financial data analyst. I double major
 
 
 
-### Portfolio Projects
+# Portfolio Projects
 
-# Brown_Foreman Stock Price Prediction Model
+### Brown Foreman Stock Price Prediction Model
+Code: 
