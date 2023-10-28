@@ -8,4 +8,4 @@ Hi, my name is Chris and I am an aspiring financial data analyst. I double major
 # Portfolio Projects
 
 ### Brown Foreman Stock Price Prediction Model
-Code: [https://github.com/csnow27/Financial-Data-Portfolio/blob/main/BF_stock_price_prediction.ipynb](BF_stock_price_prediction.ipynb)
+Code: [BF_stock_price_prediction.ipynb](https://github.com/csnow27/Financial-Data-Portfolio/blob/main/BF_stock_price_prediction.ipynb)
