@@ -7,7 +7,7 @@ When I began college, I only intended to major in finance, but I added a busines
 
 ## Portfolio Projects
 
-### Brown Foreman Stock Price Prediction Model
+### Brown Forman Stock Price Prediction Model
 **Code**: [BF_stock_price_prediction.ipynb](https://github.com/csnow27/Financial-Data-Portfolio/blob/main/BF_stock_price_prediction.ipynb)
 
 **Description**: Using Facebook's Prophet Model, a procedure for forecasting time series data, I created a program in Python that predicts the stock price for Brown-Forman ($BF-B) based on its last five years of trading data from Yahoo Finance. Steps to complete this analysis included loading the data from Yahoo Finance with pandas, cleaning and querying, exploratory data analysis, ensuring the Durbin Watson and Augmented Dickey-Fuller tests were passed, splitting the training and testing data, creating visualizations with MATPLOTLIB and evaluating model performance with forecast error terms. 
