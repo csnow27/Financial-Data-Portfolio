@@ -15,3 +15,10 @@ When I began college, I only intended to major in finance, but I added a busines
 **Outcome**: While there isn't one specific conclusion to be made when evaluating a stock price prediction model, I did save the most recent 60 days of closing stock prices (August 4, 2023 to October 27, 2023) of $BF-B to use as a test set. No model is going to be 100% perfect, but my goal in this project was to build a solid framework to continue doing forecasting analyses in the future. My emphasis was on model evaluation - I wanted to ensure I was following all the steps and checking all the boxes before building the model itself and testing its accuracy. I was pleasantly surprised with its performance - my model's MAE (mean absolute error) was 5.56, which means that if I were to choose a random day from my test set (say August 8th) I would expect my model to predict the stock price to be $5.56 away from its true value. It's far from perfect and can almost certainly be improved upon (10 year sample size, larger test set, etc.) but for my first independent analysis I was pleased.
 
 **Technical Skills Utilized**: Python, Jupyter Notebook, NumPy, Pandas, Seaborn, Matplotlib, Statsmodels, Sklearn, Prophet Model for Forecasting (Non-linear regression)
+
+### Regex in Finance - London Stock Exchange Analysis
+**Code**: [LSE_Unstructured_data.ipynb] wip
+
+**Description**: wip
+
+**Technical Skills Utilized**: Python, Jupyter Notebook, Regular Expressions
