@@ -17,8 +17,8 @@ When I began college, I only intended to major in finance, but I added a busines
 **Technical Skills Utilized**: Python, Jupyter Notebook, NumPy, Pandas, Seaborn, Matplotlib, Statsmodels, Sklearn, Prophet Model for Forecasting (Non-linear regression)
 
 ### Regex in Finance - London Stock Exchange Analysis
-**Code**: [LSE_Unstructured_data.ipynb] wip
+**Code**: [LSE_Unstructured_data.ipynb](https://github.com/csnow27/Financial-Data-Portfolio/blob/main/LSE_Unstructured_Data.ipynb)
 
-**Description**: wip
+**Description**: With a raw text file (unstructured data), I utilized regular expressions to extract relevant information about the London Stock Exchange (as of 2/28/21). 
 
 **Technical Skills Utilized**: Python, Jupyter Notebook, Regular Expressions
