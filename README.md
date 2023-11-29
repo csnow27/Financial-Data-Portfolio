@@ -19,6 +19,6 @@ When I began college, I only intended to major in finance, but I added a busines
 ### Regex in Finance - London Stock Exchange Analysis
 **Code**: [LSE_Unstructured_data.ipynb](https://github.com/csnow27/Financial-Data-Portfolio/blob/main/LSE_Unstructured_Data.ipynb)
 
-**Description**: With a raw text file (unstructured data), I utilized regular expressions to extract relevant information about the London Stock Exchange (as of 2/28/21). 
+**Description**: With a raw text file (unstructured data), I utilized regular expressions to extract relevant information about the London Stock Exchange (as of 2/28/21). Despite the data being so unstructured and messy, I was able to discover the fraction of foreign (and domestic) firms out of the total firms listed on the LSE, as well as the average market capitalization for each. 
 
 **Technical Skills Utilized**: Python, Jupyter Notebook, Regular Expressions
